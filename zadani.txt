@@ -1,0 +1,23 @@
+Hodnocení procesu generovaní mapových výstupů vytvořených AI	
+
+Cílem práce je navrhnout a otestovat metodický postup pro hodnocení a analýzu mapových výstupů vygenerovaných prostřednictvím nástrojů AI. 
+Student nejprve analyzuje konkrétní nástroje (Claude, Mistral, AI asistenti např. Mapbox, Chat-GPT aj.), možnosti (LLM, difůzní modely, 
+generativní modely, aj.) i přístupy (vibe-coding, prompt-engeneering, analýza obrazu, aj.) pro generování map skrze AI. Zaměří se na specifika v 
+kontextu porovnání s tradičními GIS a kartografickými metodami i postupy. Na základě vlastních případových studií, specifikace vstupních a výstupních 
+(hodnoticích) parametrů, je vedlejším cílem definovat limity a objektivně zhodnotit praktickou použitelnost AI pro tvorbu kartografických vizualizací 
+různého typu, s důrazem na identifikaci rozdílů mezi tradičním a AI přístupem na základě definovaných aspektů (např. legislativní, kartografický, datový, apod.)
+ a parametrů (rychlost, dostupnost, cena, kvalita apod.)
+
+Text práce student zpracuje v souladu se závaznou šablonou pro kvalifikační práce KGI. O diplomové práci student vytvoří webovou stránku a poster.
+Celou práci (text, přílohy, výstupy, zdrojová a vytvořená data, poster a web) odevzdá student v digitální podobě na datové úložiště katedry. 
+Do evidence STAG student odevzdá úplný text práce s přílohami, které určí vedoucí práce. Fyzicky student odevzdá pouze přílohy určené vedoucím práce.
+
+Literatura
+
+Muehlenhaus I. (2025): Web Mapper GPT: Create professional web maps in minutes for free. URL https://mapdesign.icaci.org/2025/11/web-mapper-gpt-create-professional-web-maps-in-minutes-for-free/
+Pannoon, P., & Netek, R. (2025). Creating Choropleth Maps by Artificial Intelligence—Case Study on ChatGPT-4. ISPRS International Journal of Geo-Information, 14(12), 486. https://doi.org/10.3390/ijgi14120486
+Mai, G.; Xie, Y.; Jia, X.; Lao, N.; Rao, J.; Zhu, Q.; Liu, Z.; Chiang, Y.-Y.; Jiao, J. Towards the next generation of Geospatial Artificial Intelligence. Int. J. Appl. Earth Obs. Geoinf. 2025, 136, 104368. 
+Openshaw, S.; Openshaw, C. Artificial Intelligence in Geography; John Wiley & Sons, Inc.: Hoboken, NJ, USA, 1997.
+Dardas, A. GeoAI Series #2: The Birth and Evolution of GeoAI. 2020. Available online: https://resources.esri.ca/education/geoai-series-2-the-birth-and-evolution-of-geoai
+Snow, S. Future Impacts of GeoAI on Mapping. Esri. 2020. Available online: https://www.esri.com/about/newsroom/arcuser/geoai-for-mapping/
+Tao, R.; Xu, J. Mapping with ChatGPT. ISPRS Int. J. Geo-Inf. 2023, 12, 284.
